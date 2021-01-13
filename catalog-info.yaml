@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "pep"
+  description: "pep"
+  annotations:
+    github.com/project-slug: "gittab/com/valeriano.javier/test3"
+    backstage.io/techdocs-ref: github:https://github.com/gittab/com/valeriano.javier/test3
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "valeriano.javier"

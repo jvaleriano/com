@@ -1,0 +1,8 @@
+site_name: "pep"
+site_description: "pep"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
